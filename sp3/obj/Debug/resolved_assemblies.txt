@@ -1,0 +1,2 @@
+C:\Users\Neil\Documents\Projects\sp3\sp3\bin\Debug\sp3.dll
+C:\Users\Neil\Desktop\GDK.dll
